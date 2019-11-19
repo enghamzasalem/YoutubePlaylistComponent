@@ -2,7 +2,7 @@
 
 ```
 npm install -g polymer-cli
-git clone https://github.com/enghamzasalem/YouubePlaylistComponent.git
+git clone https://github.com/enghamzasalem/YoutubePlaylistComponent.git
 cd start-polymer3
 npm install
 polymer serve
