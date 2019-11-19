@@ -2,7 +2,7 @@
 
 ```
 npm install -g polymer-cli
-git clone https://github.com/PolymerLabs/start-polymer3.git
+git clone https://github.com/enghamzasalem/YouubePlaylistComponent.git
 cd start-polymer3
 npm install
 polymer serve
@@ -45,3 +45,13 @@ info:    Files in this directory are available under the following URLs
       applications: http://127.0.0.1:8081
       reusable components: http://127.0.0.1:8081/components/start-polymer3/
 ```
+### How it works 
+```
+import "./playlist-embed.js";
+```
+
+```
+<playlist-embed width="100%" height="700" listid="PL32HFpx_LBMvvsDUTEBQxIdrmszkfEM0H"></playlist-embed>
+```
+
+
