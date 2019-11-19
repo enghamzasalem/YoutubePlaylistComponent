@@ -1,4 +1,4 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.npmjs.com/package/playlist-embed)
 
 # Playlist Embed Youtube 3.0
 
@@ -57,4 +57,5 @@ import "./playlist-embed.js";
 ```
 <playlist-embed width="100%" height="700" listid="PL32HFpx_LBMvvsDUTEBQxIdrmszkfEM0H"></playlist-embed>
 ```
+
 ## License
